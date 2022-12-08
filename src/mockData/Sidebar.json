@@ -1,0 +1,20 @@
+{
+    "data" : [
+        {
+            "name" : "Home",
+            "url" : "/"
+        },
+        {
+            "name" : "Save Income",
+            "url" : "/save_income"
+        },
+        {
+            "name" : "Wish List",
+            "url" : "/wish_list"
+        },
+        {
+            "name" : "Manage Income",
+            "url" : "/manage_income"
+        }
+    ]
+}
